@@ -5,7 +5,7 @@ const read = require ('readline-sync')
 //para usar recursos da biblioteca
 
 const buscarLivros = () => {
-    const opcaoInicial = read.question ('Deseja buscar por categoria?' S/N).toUpperCase()
+    const opcaoInicial = read.question ('Deseja buscar por categoria? S/N').toUpperCase()
     if (opcaoInicial === 'S') {
     const categorias = livros.map (livro => livro.categoria)
     console.table (categorias)
