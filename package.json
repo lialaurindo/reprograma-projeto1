@@ -1,0 +1,23 @@
+{
+  "name": "reprograma-projeto1",
+  "version": "1.0.0",
+  "description": "Projeto integrado da semana 5 da reprograma. É um sistema que gerencia livros.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lialaurindo/reprograma-projeto1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lialaurindo/reprograma-projeto1/issues"
+  },
+  "homepage": "https://github.com/lialaurindo/reprograma-projeto1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
